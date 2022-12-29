@@ -11,4 +11,17 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+#counter {
+  padding: 20px;
+  font-size: 50px;
+}
+button {
+  font-size: 50px;
+}
+.content {
+  display: flex;
+  align-items: center;
 }
