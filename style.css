@@ -1,0 +1,14 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #b4a5a5;
+}
+#app {
+  background-color: #151515;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
