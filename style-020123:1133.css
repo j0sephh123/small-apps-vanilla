@@ -14,12 +14,12 @@ body {
   flex-direction: column;
   gap: 30px;
 }
-#counter {
+.counter {
   font-weight: 600;
   padding: 20px;
   font-size: 50px;
 }
-button {
+.button {
   background-color: #e8590c;
   font-size: 24px;
   color: #ffffff;
@@ -30,7 +30,7 @@ button {
   border: 1px solid transparent;
   cursor: pointer;
 }
-button:hover {
+.button:hover {
   background-color: #ff7f3a;
 }
 .content {
