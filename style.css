@@ -3,9 +3,9 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  color: #b4a5a5;
 }
-#app {
+.app {
+  color: #b4a5a5;
   background-color: #151515;
   height: 100vh;
   display: flex;

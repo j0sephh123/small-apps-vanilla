@@ -4,4 +4,5 @@ This repo will host the css file that is to be used accross the other apps
 [Deployed url](https://63afea1ce886cc6b45dd148d--jocular-llama-c08f35.netlify.app/counter.html)
 
 # Similar
-[small-apps-react-vite](https://github.com/j0sephh123/small-apps-react-vite)
+[small-apps-react-vite](https://github.com/j0sephh123/small-apps-react-vite)  
+[small-apps-svelte](https://github.com/j0sephh123/small-apps-svelte)  
